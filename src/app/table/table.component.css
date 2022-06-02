@@ -1,0 +1,79 @@
+.actinoid {
+    background-color: pink;
+}
+
+.alkali {
+    background-color: orange;
+}
+
+.alkaline {
+    background-color: yellow;
+}
+
+.lanthanoid {
+    background-color:burlywood;
+}
+
+.metalloid {
+    background-color: aquamarine;
+}
+
+.noble {
+    background-color:blueviolet;
+}
+
+.nonmetal {
+    background-color: lightgreen;
+}
+
+.periodic-table {
+    margin: 0 auto;
+}
+
+.post-transition {
+    background-color: aqua;
+}
+
+.unknown{
+    background-color: lavender;
+}
+
+table.periodic-table td {
+    width: 50px;
+    height: 53px;
+    vertical-align: middle;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 550;
+    position: relative;
+}
+
+table.periodic-table td:hover:not(.blank) {
+    background-color: grey;
+    width: 50px;
+    height: 53px;
+    vertical-align: middle;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 650;
+    z-index: 0;
+    cursor: pointer;
+}
+
+.transition {
+    background-color: coral;
+}
+
+span {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 7px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+
+#lanthanoid {
+    margin-top: 10px;
+}
+
+
+

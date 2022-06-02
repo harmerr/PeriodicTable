@@ -1,0 +1,31 @@
+.attribute {
+    background-color: black;
+    color: white;
+}
+
+.data {
+    background-color:whitesmoke;
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 1px;
+}
+
+table tr td {
+    font-size: 11px;
+    border-collapse:separate;
+    border:solid black 1px;
+    border-radius:4px;
+}
+
+table {
+    background-color: honeydew;
+    margin: auto;
+}
+
+td {
+    padding: 1px 5px;
+}
+
